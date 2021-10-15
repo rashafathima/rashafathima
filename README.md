@@ -4,7 +4,7 @@
 ### I am a passionate coder and researcher. I enjoy using my skills to present myself in Hackathons and other similar events. I love to collaborate with people around the world on open source projects and moreover discuss and get my hands dirty on the emerging and new technology.
 
 
-### Skill Set
+## Skill Set
 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
