@@ -17,9 +17,20 @@
 # Hi there I'm Rasha👋
 
 
-
 ### I am a passionate coder and researcher. I enjoy using my skills to present myself in Hackathons and other similar events. I love to collaborate with people around the world on open source projects and moreover discuss and get my hands dirty on the emerging and new technology.
 
+
+## More about me!
+
+<img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" height="200" width = "280" align="right">
+<br>
+
+- 🔭 I’m currently working on Data Science Projects
+- 🌱 I’m currently learning python libraries for data analysis and machine learning
+- 👯 I’m looking to collaborate on data science and web-dev projects
+- 💬 Ask me about web-dev, literature and world politics
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Afternoon naps are my 2nd oxygen and I love sleeping while I'm on a Road Trip
 
 ## <pre align = "center">Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${rashafathima})</pre>
 
@@ -28,14 +39,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashafathima)
 
-### More about me!
-
-<img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" height="200" width = "300" align="right">
-<br>
-
-- 🔭 I’m currently working on Data Science Projects
-- 🌱 I’m currently learning python libraries for data analysis and machine learning
-- 👯 I’m looking to collaborate on data science and web-dev projects
-- 💬 Ask me about web-dev, literature and world politics
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Afternoon naps are my 2nd oxygen and I love sleeping in the bus 
