@@ -14,7 +14,7 @@
 
 ## Glad to see you here! <span>![visitors](https://visitor-badge.glitch.me/badge?page_id=${rashafathima})</span>  
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=rashafathima&count_private=true&show_icons=true&hide=contribs)<br>
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=rashafathima&count_private=true&show_icons=true&hide=contribs)<img src = "https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"></img>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashafathima)
 
