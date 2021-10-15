@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/N22QmqF/rasha-git.gif" height="1=400" width = "800">
+<img src="https://i.ibb.co/N22QmqF/rasha-git.gif" height="700" width = "800">
 
 
 ## Hi there I'm Rasha👋
