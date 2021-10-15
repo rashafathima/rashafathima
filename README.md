@@ -30,9 +30,11 @@
 
 ### More about me!
 
+![Image](https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif)
+
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning python libraries for data analysis and machine learning
 - 👯 I’m looking to collaborate on data science and web-dev projects
 - 💬 Ask me about web-dev, literature and world politics
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Afternoon naps are my 2nd oxygen and I love sleeping in the bus <img src = "https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+- ⚡ Fun fact: Afternoon naps are my 2nd oxygen and I love sleeping in the bus 
