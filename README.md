@@ -36,7 +36,8 @@
 
 ### Skill Set
 
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
+<a href="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/">![https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white]</a>
+  
 
 
 
