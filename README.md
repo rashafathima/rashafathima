@@ -21,7 +21,7 @@
 ## More about me!
 
 <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" height="200" width = "280" align="right">
-<br><br>
+<br>
 
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning python libraries for data analysis and machine learning
