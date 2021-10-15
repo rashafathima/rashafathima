@@ -12,7 +12,7 @@
 ### I am a passionate coder and researcher. I enjoy using my skills to present myself in Hackathons and other similar events. I love to collaborate with people around the world on open source projects and moreover discuss and get my hands dirty on the emerging and new technology.
 
 
-## Glad to see you here! &nbsp ![visitors](https://visitor-badge.glitch.me/badge?page_id=${rashafathima})  
+## Glad to see you here! <p> ![visitors](https://visitor-badge.glitch.me/badge?page_id=${rashafathima})  </p>
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=rashafathima&count_private=true&show_icons=true&hide=contribs)
 <br>
