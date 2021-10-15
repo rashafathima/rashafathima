@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/rashafathima/<OWNER>/<OWNER>/https://github.com/rashafathima/rashafathima/blob/main/assets/rasha%20git.mp4.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/rashafathima/<OWNER>/<OWNER>/assets/rasha%20git.mp4.png "Header")](https://some-url.dev/)
 
 
 ## Hi there I'm Rasha👋
