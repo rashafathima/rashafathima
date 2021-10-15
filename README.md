@@ -34,6 +34,6 @@
 
 ## <pre align = "center">Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${rashafathima})</pre>
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=rashafathima&count_private=true&show_icons=true&layout=compact)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=rashafathima&count_private=true&show_icons=true&) <p> </p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashafathima&layout=compact)
 
