@@ -28,11 +28,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashafathima)
 
-### Other
+### More about me!
 
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning python libraries for data analysis and machine learning
 - 👯 I’m looking to collaborate on data science and web-dev projects
 - 💬 Ask me about web-dev, literature and world politics
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Afternoon naps are my 2nd oxygen and I love sleeping in the bus
+- ⚡ Fun fact: Afternoon naps are my 2nd oxygen and I love sleeping in the bus <img src = "https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
