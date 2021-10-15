@@ -1,6 +1,8 @@
 <img src="https://i.ibb.co/N22QmqF/rasha-git.gif" height="350" width = "900" align="center"><br>
 <br>
 
+### 📫 How to reach me: 
+
 <a href="mailto:rashahameed10@gmail.com">![rashahameed10@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/rasha-472247198/">![https://www.linkedin.com/in/rasha-472247198/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.facebook.com/rashafathima60/">![https://www.facebook.com/rashafathima60/](https://img.shields.io/badge/Facebook-2293A1?style=for-the-badge&logo=facebook&logoColor=white)</a>
@@ -26,17 +28,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashafathima)
 
-<!--
-**rashafathima/rashafathima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Other
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Data Science Projects
+- 🌱 I’m currently learning python libraries for data analysis and machine learning
+- 👯 I’m looking to collaborate on data science and web-dev projects
+- 💬 Ask me about web-dev, literature and world politics
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Afternoon naps are my 2nd oxygen and I love sleeping in the bus
