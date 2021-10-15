@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co/N22QmqF/rasha-git.gif" height="350" width = "900" align="center">
+<img src="https://i.ibb.co/N22QmqF/rasha-git.gif" height="350" width = "900" align="center"><br>
+<a href="mailto:rashahameed10@gmail.com">![rashahameed10@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
 # Hi there I'm Rasha👋
