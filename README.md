@@ -1,4 +1,4 @@
-![Header](https://i.ibb.co/N22QmqF/rasha-git.gif = 250x250)
+![Header](https://i.ibb.co/N22QmqF/rasha-git.gif | width = 250)
 
 
 ## Hi there I'm Rasha👋
