@@ -1,7 +1,9 @@
 [![Header](https://raw.githubusercontent.com/rashafathima/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 
-### Hi there I'm Rasha👋
+## Hi there I'm Rasha👋
+
+#### I am a passionate coder and researcher. I enjoy using my skills to present myself in Hackathons and other similar events. I love to collaborate with people around the world on open source projects and moreover discuss and get my hands dirty on the emerging and new technology.
 
 <!--
 **rashafathima/rashafathima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
