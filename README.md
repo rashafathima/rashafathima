@@ -1,4 +1,4 @@
-[![Header](https://i.ibb.co/N22QmqF/rasha-git.gif){:height="24px" width="48px"}]
+<img src="https://i.ibb.co/N22QmqF/rasha-git.gif" height="24">
 
 
 ## Hi there I'm Rasha👋
