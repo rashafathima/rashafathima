@@ -37,7 +37,7 @@
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=rashafathima&count_private=true&show_icons=true&&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashafathima&layout=compact)
-![image](https://github-readme-streak-stats.herokuapp.com/?username={rashafathima})
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user={rashafathima})
 
 
 ### 📫 How to reach me: 
