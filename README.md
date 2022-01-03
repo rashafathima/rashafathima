@@ -27,7 +27,8 @@
 - 🔭 I’m currently working on GIS, Data Science and Machine Learning Projects
 - 🌱 Prolly a self taught programmer who messes up stuffs at all phases
 - 🤷‍♂️ All my codes are absolute trash but anyways they're flexible enough to solve the problems 
-- 💬 I'm probably stuck between the passion and profession phase of coding. Other than coding I am an author and into activism
+- 💬 I'm probably stuck between the passion and profession phase of coding
+- 📌 My Other Interests : Astrophysics and Astronomy, Science and Religion, War Crime/Climate Change Activism, Poetry, Acrylic Landscape Painting
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like people who laugh at my lame jokes and love hearing me blabbering 24x7
 
