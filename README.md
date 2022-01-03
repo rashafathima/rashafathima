@@ -24,12 +24,12 @@
 <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" height="200" width = "280" align="right">
 <br>
 
-- 🔭 I’m currently working on Data Science and Machine Learning Projects
-- 🌱 I’m currently learning python libraries for data analysis and machine learning
-- 👯 I’m looking to collaborate on data science, Machine Learning and web-dev projects
-- 💬 Ask me about web-dev, literature and world politics
+- 🔭 I’m currently working on GIS, Data Science and Machine Learning Projects
+- 🌱 Prolly a self taught programmer who messes up stuffs at all phases
+- 🤷‍♂️ All my codes are absolute trash but anyways they're flexible enough to solve the problems 
+- 💬 I'm probably stuck between the passion and profession phase of coding. Other than coding I am an author and into activism
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Afternoon naps are my 2nd oxygen and I love sleeping while I'm on a Road Trip
+- ⚡ Fun fact: I like people who laugh at my lame jokes and love hearing me blabbering 24x7
 
 ## <pre align = "center">Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${rashafathima})</pre>
 
