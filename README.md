@@ -1,7 +1,7 @@
 # Hi there I'm Rasha👋
 
 
-### I am a passionate coder and researcher. I enjoy using my skills to present myself in Hackathons and other similar events. I love to collaborate with people around the world on open source projects and moreover discuss and get my hands dirty on the emerging and new technology.
+### I am a passionate coder and a researcher. I enjoy using my skills to present myself in hackathons and other similar events. I love to collaborate with people around the world on open source projects and moreover discuss and get my hands dirty on the emerging and new technology.
 
 
 ## Skill Set (Frameworks, Languages and Libraries)
