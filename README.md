@@ -70,6 +70,11 @@
 <a href="https://www.quora.com/profile/Rasha-149">![https://www.quora.com/profile/Rasha-149](https://img.shields.io/badge/Quora-DF2828?style=for-the-badge&logo=quora&logoColor=white)</a>
 <a href="https://github.com/rashafathima/rashafathima/">![https://github.com/rashafathima/rashafathima/](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)</a>
 
+
+### And yes! Don't forget to sneak into my portfolio xD
+
+<a href ="https://drive.google.com/file/d/1MqSc631EgPwUIQHJBCFahmYY3DBjhm0F/view?usp=sharing">MY PORTTTTFOLIOOO!!!</a>
+
   
 
 
