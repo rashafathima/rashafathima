@@ -28,6 +28,7 @@
 
 <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" height="200" width = "280" align="right">
 <br>
+<br>
 
 - 🔭 I’m currently working on GIS, Data Science and Machine Learning Projects
 - 🌱 Prolly a self taught programmer who messes up stuffs at all phases
