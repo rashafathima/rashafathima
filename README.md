@@ -29,11 +29,10 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on GIS, Data Science and Machine Learning Projects
+- 🔭 I’m currently working on myself!
 - 🌱 Prolly a self taught programmer who messes up stuffs at all phases
 - 🤷‍♂️ All my codes are absolute trash but anyways they're flexible enough to solve the problems 
 - 💬 I'm probably stuck between the passion and profession phase of coding
-- 📌 My Other Interests : Cricket, War Crime/Climate Change, Poetic activism, Painting art
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like people who laugh at my lame jokes and love hearing me blabbering 24x7
 
@@ -62,7 +61,7 @@
 
 ## And yes! Don't forget to sneak into my portfolio xD
 
-<a href ="https://rashafathima.github.io/Rasha-s-Portfolio/">CLIIICKKKK HEREEEEEEEE!!!</a>
+<a href ="https://rashafathima.github.io/Portfolio-Version-2.0/">CLIIICKKKK HEREEEEEEEE!!!</a>
 
 
   
