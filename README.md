@@ -1,5 +1,4 @@
-# Hi there I'm Rasha👋
-
+# Hi there I'm Rasha👋 ![image](https://img.shields.io/badge/rasha-%3Ctryin--to--figure--out--my--codes%2F%3E-red)
 
 ### I am a passionate coder and a researcher. I enjoy using my skills to present myself in hackathons and other similar events. I love to collaborate with people around the world on open source projects and moreover discuss and get my hands dirty on the emerging and new technology.
 
