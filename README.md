@@ -49,7 +49,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashafathima&layout=compact)
 <br>
 
+<!--
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=rashafathima)
+-->
 
 
 ### 📫 How to reach me: 
