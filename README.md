@@ -5,6 +5,7 @@
 
 ## Stuffs i've experimented with (IDE, Frameworks, Languages, OS and Libraries)
 
+![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,7 +21,8 @@
 ![image](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![image](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## More about me!
 
@@ -39,8 +41,10 @@
 
 ## Overview of my contribution to Github (2021)
 
+<!--
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=rashafathima&count_private=true&show_icons=true&&hide=stars)
-<br>
+<br> 
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashafathima&layout=compact)
 <br>
