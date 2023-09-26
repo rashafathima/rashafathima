@@ -2,8 +2,8 @@
 
 ### I am a passionate coder and a researcher. I enjoy using my skills to present myself in hackathons and other similar events. I love to collaborate with people around the world on projects and moreover discuss and get my hands dirty on the emerging and new technology.
 
-
-## Stuffs i've experimented with (IDE, Frameworks, Languages, OS and Libraries)
+<!--
+ ## Stuffs i've experimented with (IDE, Frameworks, Languages, OS and Libraries)
 
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,8 +23,9 @@
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![image](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+-->
 
-## More about me!
+## bout me!
 
 <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" height="200" width = "280" align="right">
 <br>
@@ -39,15 +40,16 @@
 
 ## <pre align = "center">Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${rashafathima})</pre>
 
-## Overview of my contribution to Github (2021)
 
 <!--
+## Overview of my contribution to Github (2021)
+
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=rashafathima&count_private=true&show_icons=true&&hide=stars)
 <br> 
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashafathima&layout=compact)
-<br>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashafathima&layout=compact)
+<br> -->
 
 <!--
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=rashafathima)
@@ -59,12 +61,11 @@
 <a href="mailto:rashahameed10@gmail.com">![rashahameed10@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/rasha-472247198/">![https://www.linkedin.com/in/rasha-472247198/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.quora.com/profile/Rasha-149">![https://www.quora.com/profile/Rasha-149](https://img.shields.io/badge/Quora-DF2828?style=for-the-badge&logo=quora&logoColor=white)</a>
-<a href="https://github.com/rashafathima/rashafathima/">![https://github.com/rashafathima/rashafathima/](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)</a>
 
 
 ## And yes! Don't forget to sneak into my portfolio xD
 
-<a href ="https://rashafathima.github.io/Portfolio-Version-2.0/">CLIIICKKKK HEREEEEEEEE!!!</a>
+<a href ="https://rashafathima.me/">CLIIICKKKK HEREEEEEEEE!!!</a>
 
 
   
